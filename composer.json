@@ -1,0 +1,11 @@
+{
+    "name": "stijn/php8-playground",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Stijn Stroeve",
+            "email": "stijnstroeve@hotmail.com"
+        }
+    ],
+    "require": {}
+}
